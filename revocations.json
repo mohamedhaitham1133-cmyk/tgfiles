@@ -1,12 +1,16 @@
 {
   "v": 1,
-  "seq": 2,
-  "ts": 1794250948504,
+  "seq": 3,
+  "ts": 1794255627038,
   "revoked": [
     {
       "mid": "0c7723f673d2c6033dae",
       "serial": 1
+    },
+    {
+      "mid": "221b1cfc54c7187960f0",
+      "serial": 4
     }
   ],
-  "sig": "CYLhcekEzQougoFSwbv4d2-nKwfHbcdFsrPMi8AGVEvabnoK5H6CqLBkK9IbPA0Q6qCotpHXYAgm4nLtuLN-DQ"
+  "sig": "UC1spoebBkySkh9J64uZjV69cxfWKGuX-yoiyxFmDq4FNuR71Lbm4SFy8-ULE9jaaGcT8YXz95dDR5uqqewGAw"
 }
