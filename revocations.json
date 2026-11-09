@@ -1,12 +1,12 @@
 {
   "v": 1,
-  "seq": 5,
-  "ts": 1794199018329,
+  "seq": 6,
+  "ts": 1794199020621,
   "revoked": [
     {
       "mid": "221b1cfc54c7187960f0",
       "serial": 6
     }
   ],
-  "sig": "7E3Y0G5INrAA3jNSfqxX1mSATAUpEGYK7Go-9lPHgbU0tKy78Wns_fjCVIs071C62xsem_R8UYGVsPpbV_BDDw"
+  "sig": "Cb9xupA-bVvUbRr1N5QYed60my7VZenXukxgSxSBrd8G7FiBNV9MwR4fPOUzlb-LeaQJH_jK_lR190NUFXpADg"
 }
