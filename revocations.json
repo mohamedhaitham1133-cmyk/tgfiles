@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "seq": 1794257294,
-  "ts": 1794257293676,
+  "seq": 1794257329,
+  "ts": 1794257329159,
   "revoked": [
     {
       "mid": "0c7723f673d2c6033dae",
@@ -9,8 +9,8 @@
     },
     {
       "mid": "221b1cfc54c7187960f0",
-      "serial": 14
+      "serial": 15
     }
   ],
-  "sig": "ZhfTZLqD1fDClH60t2ZdN3A88selNkl1ALxVrlWEtQw_y7WbN8s9hqtLenjzCALnJKOP81UTRQ2RNu8cvRp_Bw"
+  "sig": "z8z4Z2SZPsG-C2Uqj2GlEX7jJZAbMAXbcrIFeB4fjIqAlrBAk5hE35WAedqT9A5y13k58SJbLJP-uC-00cnODA"
 }
